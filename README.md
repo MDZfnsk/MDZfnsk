@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MDZfnsk
-- 👀 I’m interested in Softaware Development and New Tec tools.
-- 🌱 I’m currently learning Software Engineering as an undergraduate of University of Plymouth.
-- 📫 How to reach me just visit my profile @MDZfnsk. 
+- 👀 I’m interested in Softaware Development and Try my best to stay updated with the current trends in Computer World.
+- 🌱 I’m currently learning Software Engineering as an Undergraduate of University of Plymouth.
+- 📫 Just visit my profile @MDZfnsk. 
 
 <!---
 MDZfnsk/MDZfnsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
